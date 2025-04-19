@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TW01/amk_tw01/Scenes/amk_PickAndPut.unity
     guid: 44fe669897a67934884b133a26c93342
+  - enabled: 1
+    path: Assets/TW01/lhn_tw01/lhn_PickAndPut.unity
+    guid: 7e1acbc8d4e11ca4e9dc16acd0dae841
   m_configObjects: {}
