@@ -154,7 +154,7 @@ MonoBehaviour:
   diaryPanel: {fileID: 1663744946}
   dateText: {fileID: 910062152}
   contentText: {fileID: 1098846058}
-  startPageID: 0
+  startPageID: 1
   autoShow: 1
 --- !u!4 &230093539
 Transform:
