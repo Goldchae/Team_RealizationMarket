@@ -19,6 +19,8 @@ public class StageManager_Auditorium : MonoBehaviour
     public GameObject chapelClearAlert;
     public GameObject chapelFailAlert;
     public GameObject diary;
+    public GameObject outro;
+    public GameObject instruction;
     public GameObject nextButton;
   
     [Header("대사")]
@@ -35,6 +37,7 @@ public class StageManager_Auditorium : MonoBehaviour
         chapelClearAlert.SetActive(false);
         chapelFailAlert.SetActive(false);
         diary.SetActive(false);
+        outro.SetActive(false);
     }
 
     private bool clicked = false;
@@ -87,6 +90,8 @@ public class StageManager_Auditorium : MonoBehaviour
                 break;
 
             case Stage.Complete:
+                outro.SetActive(true);
+                instruction.SetActive(false);
                 break;
             default:
                 break;
