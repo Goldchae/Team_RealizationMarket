@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="RestaurantPoster" size="100.000000 133.350754" />
+    <ImageTarget name="Asan123" size="100.000000 100.000000" />
+    <ImageTarget name="arthouse_momo" size="0.070000 0.077894" />
     <ImageTarget name="Flower" size="0.150000 0.200000" />
     <ImageTarget name="WideFlower" size="3.000000 4.000000" />
   </Tracking>
