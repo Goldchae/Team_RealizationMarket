@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb4d5072a9e8e4ee5bd9e055d3232a46, type: 3}
+  m_Name: Ep2_1
+  m_EditorClassIdentifier: 
+  lines:
+  - "\uC557..! \uBC30\uD130\uB9AC\uAC00 \uC5C6\uC796\uC544?"
+  - "\uD559\uAD50\uC5D0\uC11C \uCDA9\uC804\uAE30\uB97C \uB300\uC5EC\uD560 \uC218
+    \uC788\uB2E4\uB358\uB370.."
